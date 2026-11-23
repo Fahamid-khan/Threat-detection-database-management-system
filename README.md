@@ -1,1 +1,3 @@
-# THREAT-DETECTION-DATABASE-MANAGEMENT-SYSTEM
+A database-driven Threat Detection and Incident Management System (TDDMS) designed to centralize security event monitoring, identify suspicious activities, and manage cybersecurity incidents. The system uses SQL-based detection rules, threat intelligence correlation, automated alert generation, and incident tracking to detect potential threats such as brute-force attacks, port scans, and malicious IP connections.
+
+Built with **Node.js, Express.js, PostgreSQL, and Prisma**, the project demonstrates database design, normalization, relational integrity, stored procedures, triggers, indexing, query optimization, and role-based access control.
